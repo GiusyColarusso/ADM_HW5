@@ -1,3 +1,3 @@
 # ADM_HW5
 
-### the file func_1 contain the functions for functionality one and visulaization
+### File func_1 contains the functions for functionality 1 and visulaization
