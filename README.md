@@ -1,3 +1,4 @@
 # ADM_HW5
 
-### File func_1 contains the functions for functionality 1 and visulaization
+### In this repository you will find the main script which contains the entire code for this homework.
+### 
